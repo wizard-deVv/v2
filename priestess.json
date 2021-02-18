@@ -1,0 +1,22 @@
+{
+  "description": "CREEPS Can Battle Each Other in the Mythic Battleground", 
+  "external_url": "https://www.mythic.finance/bsc", 
+  "image": "https://i.ibb.co/k3gjhzQ/battle-priestes.png", 
+  "name": "Battle Priestess",
+  "attributes": [ 
+    {
+      "trait_type": "Level", 
+      "value": 5000
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Rarity", 
+      "value": 100
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }
+  ]
+}
