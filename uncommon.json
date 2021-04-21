@@ -6,12 +6,12 @@
   "attributes": [ 
     {
       "trait_type": "Level", 
-      "value": 3000
+      "value": 3001
     }, 
     {
       "display_type": "boost_percentage", 
       "trait_type": "Rarity", 
-      "value": 97
+      "value": 99
     }, 
     {
       "display_type": "number", 
