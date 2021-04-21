@@ -1,18 +1,13 @@
 {
   "description": "CREEPS Can Battle Each Other in the Mythic Battleground", 
   "external_url": "https://www.mythic.finance/bsc", 
-  "image": "https://i.ibb.co/sv9sMXP/galaxy-bender.png", 
-  "name": "Galaxy Bender",
+  "image": "https://i.ibb.co/jRBRc1C/uncommon.png", 
+  "name": "Uncommon",
   "attributes": [ 
     {
       "trait_type": "Level", 
-      "value": 3001
-    }, 
-    {
-      "display_type": "boost_percentage", 
-      "trait_type": "Rarity", 
-      "value": 99
-    }, 
+      "value": 2
+    },
     {
       "display_type": "number", 
       "trait_type": "Generation", 
