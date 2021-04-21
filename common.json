@@ -1,18 +1,13 @@
 {
   "description": "CREEPS Can Battle Each Other in the Mythic Battleground", 
   "external_url": "https://www.mythic.finance/bsc", 
-  "image": "https://i.ibb.co/0DGGj79/galaxy-creep.png", 
-  "name": "Destroyer of Realms",
+  "image": "https://i.ibb.co/pnmkBfq/common.png", 
+  "name": "Common",
   "attributes": [ 
     {
       "trait_type": "Level", 
-      "value": 3000
-    }, 
-    {
-      "display_type": "boost_percentage", 
-      "trait_type": "Rarity", 
-      "value": 69
-    }, 
+      "value": 1
+    },
     {
       "display_type": "number", 
       "trait_type": "Generation", 
