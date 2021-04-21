@@ -1,0 +1,17 @@
+{
+  "description": "CREEPS Can Battle Each Other in the Mythic Battleground", 
+  "external_url": "https://www.mythic.finance/bsc", 
+  "image": "https://i.ibb.co/8md35Nc/god.png", 
+  "name": "god",
+  "attributes": [ 
+    {
+      "trait_type": "Level", 
+      "value": 30
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  ]
+}
